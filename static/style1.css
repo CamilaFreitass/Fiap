@@ -1,0 +1,75 @@
+Body{
+	       Background-color: MediumSeaGreen;
+	       max-width: 1600px;
+	       min-width: 500px;
+}
+
+.container {
+    text-align: center;
+}
+
+h2{
+    position: relative;
+    padding: 70px 100px 10px 100px;
+    color: white;
+    font-size: 300%;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    text-align: right;
+    color: white;
+    margin: 30px;
+}
+
+label{
+    text-align: left;
+    width: 100%;
+}
+
+form{
+    color: white;
+    margin: 60px;
+    border-radius: 20px;
+}
+
+div input#pwd{
+    border-radius: 20px;
+    Background-color: MediumSeaGreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+div input#usuario{
+    border-radius: 20px;
+    Background-color: MediumSeaGreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+#botao1{
+    position: relative;
+    top: 15px;
+    margin: 20px;
+    Background-color: white;
+    color: rgba(0, 0, 0, 1);
+    border-color: white;
+    width: 180px;
+    border-radius: 20px;
+}
+
+button{
+    position: relative;
+    top: 10px;
+    margin: 10px;
+    Background-color: white;
+    color: rgba(0, 0, 0, 1);
+    border-color: white;
+    width: 280px;
+    border-radius: 100px;
+}
+
+

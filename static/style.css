@@ -1,0 +1,49 @@
+Body{
+	       Background-color: MediumSeaGreen;
+	       max-width: 1600px;
+	       min-width: 500px;
+	}
+
+.container {
+    text-align: center;
+}
+
+h2{
+    position: relative;
+    padding: 70px 100px 10px 100px;
+    color: white;
+    font-size: 350%;
+    font-weight: bold;
+}
+
+img{
+    position: relative;
+    margin: 30px;
+    width: 32%;
+}
+
+p{
+    position: relative;
+    color: white;
+    font-size: 20px;
+}
+
+button#botao2{
+    position: relative;
+    top: 20px;
+    margin: 20px;
+    color: rgba(0, 0, 0, 1);
+    border-color: white;
+    width: 180px;
+    border-radius: 20px;
+}
+
+button#botao1{
+    position: relative;
+    top: 20px;
+    margin: 20px;
+    Background-color: rgba(0, 255, 0, 0);
+    border-color: white;
+    width: 180px;
+    border-radius: 20px;
+}
