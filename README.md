@@ -24,6 +24,5 @@
 </table>
 
 
-#### Como executar a aplicação:
 
     
