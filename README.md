@@ -23,6 +23,6 @@
   </tr>
 </table>
 
+---
 
-
-    
+by CamilaFreitass |🤗  [See my LinkedIn](https://www.linkedin.com/in/camila-freitassilva/)
