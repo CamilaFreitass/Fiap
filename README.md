@@ -15,7 +15,7 @@
     <td>Bootstrap</td>
   </tr>
   <tr>
-    <td>3.0</td>
+    <td>3.10.2</td>
     <td>2.0.2</td>
     <td>5.0</td>
     <td>3.0</td>
